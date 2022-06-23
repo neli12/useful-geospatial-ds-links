@@ -9,3 +9,4 @@ Some links related to geospatial analysis and data science in python.
 6. [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/course-info/course-info.html). 
 7. [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html).
 8. [Geographic Data Science with Python](https://geographicdata.science/book/intro.html).
+9. [Spatial Data Science with PostgreSQL](https://towardsdatascience.com/spatial-data-science-with-postgresql-postgis-2f941c8c367a).
